@@ -1,3 +1,2 @@
-# 알고리즘 공부
-
-- [ ] 백준 문제풀이
+# github_study
+githubstudy
